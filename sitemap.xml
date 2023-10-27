@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://www.orikedonautokorjaamo.fi/</loc>
+        <priority>1.00</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.orikedonautokorjaamo.fi/"/>
+    </url>
+    <url>
+        <loc>https://www.orikedonautokorjaamo.fi/auton-huolto-ja-korjaus</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.orikedonautokorjaamo.fi/auton-huolto-ja-korjaus"/>
+    </url>
+    <url>
+        <loc>https://www.orikedonautokorjaamo.fi/vahvuutemme</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.orikedonautokorjaamo.fi/vahvuutemme"/>
+    </url>
+    <url>
+        <loc>https://www.orikedonautokorjaamo.fi/viritys-tuning</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.orikedonautokorjaamo.fi/viritys-tuning"/>
+    </url>
+    <url>
+        <loc>https://www.orikedonautokorjaamo.fi/yritys</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.orikedonautokorjaamo.fi/yritys"/>
+    </url>
+    <url>
+        <loc>https://www.orikedonautokorjaamo.fi/ota-yhteytta</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.orikedonautokorjaamo.fi/ota-yhteytta"/>
+    </url>
+</urlset>
