@@ -1951,6 +1951,10 @@ p {
   margin-top: 24px;
 }
 
+.white-link {
+  color: var(--white);
+}
+
 @media screen and (min-width: 1280px) {
   .container-default {
     max-width: 1500px;
